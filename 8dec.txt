@@ -1,2 +1,3 @@
 Nouveau élément du 8 décembre - création.
 A partir du dossier EssaiGit2, je rajoute une ligne. 
+A partir du dossier EssaiGit, j'en rajoute une autre.
